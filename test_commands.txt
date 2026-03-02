@@ -33,7 +33,7 @@ commands used:
     git switch main
     git merge 
     
-6)Resolving conflicts
+6)Resolving conflicts and PR
 -old line is deleted and this is added in features branch for PR and merge conflicts.
 commands used:
     git branch
