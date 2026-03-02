@@ -23,3 +23,12 @@ Test commands list :
     git push origin main
     git switch features
     git pull origin main
+
+(this lines are added in features branch)
+5) merging branches
+commands used:
+    git branch
+    git switch features
+    git push features
+    git switch main
+    git merge features
