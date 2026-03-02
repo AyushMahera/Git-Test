@@ -31,7 +31,7 @@ commands used:
     git switch features
     git push features
     git switch main
-    git merge 
+    git merge features
     
 6)Resolving conflicts and PR
 -old line is deleted and this is added in features branch for PR and merge conflicts.
