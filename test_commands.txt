@@ -1,0 +1,12 @@
+Test commands list :
+
+1)created new folder Git-Test and initialized to git.
+-commands used:
+    git status
+    git init
+
+2)created test_commands.txt, added in staging area and committed with message
+-commands used:
+    git status
+    git add test_commands.txt
+    git commit -m "editing and commiting this file"
