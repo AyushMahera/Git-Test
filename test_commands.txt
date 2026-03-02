@@ -10,3 +10,16 @@ Test commands list :
     git status
     git add test_commands.txt
     git commit -m "editing and commiting this file"
+
+3) created and visited branch : feature
+-commands used:
+    git branch
+    git switch -c features
+    git switch main
+
+4) Push and pull code in github repository.
+-commands used :
+    git remote add origin "https://github.com/AyushMahera/Git-Test.git"
+    git push origin main
+    git switch features
+    git pull origin main
