@@ -12,10 +12,10 @@ Test commands list :
     git commit -m "editing and commiting this file"
 
 3) created and visited branch : feature
-/*
-This
-is edited and commited on github.com
-for PR merge conflict */
+-commands used:
+    git branch
+    git switch -c features
+    git switch main
 
 4) Push and pull code in github repository.
 -commands used :
@@ -31,7 +31,7 @@ commands used:
     git switch features
     git push features
     git switch main
-    git merge 
+    git merge features
     
 6)Resolving conflicts
 -old line is deleted and this is added in features branch for PR and merge conflicts.
