@@ -34,4 +34,11 @@ commands used:
     git merge 
     
 6)Resolving conflicts
--this line is added in main branch
+-old line is deleted and this is added in features branch for PR and merge conflicts.
+commands used:
+    git branch
+    git switch features
+    git add .
+    git commit -m "merging with conflicts"
+    git push origin features
+-creating PR form github.com and this section will be added from features branch to main branch.
