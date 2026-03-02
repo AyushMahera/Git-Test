@@ -31,4 +31,7 @@ commands used:
     git switch features
     git push features
     git switch main
-    git merge features
+    git merge 
+    
+6)Resolving conflicts
+-this line is added in main branch
