@@ -34,7 +34,7 @@ commands used:
     git merge features
     
 6)Resolving conflicts
--old line is deleted and this is added in features branch for PR and merge conflicts.
+-this line is edited in main branch
 commands used:
     git branch
     git switch features
